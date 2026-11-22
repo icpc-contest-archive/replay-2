@@ -1,0 +1,30 @@
+
+.mtli_attachment {
+	display:inline-block;
+	height: auto;
+	min-height:24px;
+	background-position: top left;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	padding-left: 28.8px !important;
+}
+.mtli_csv {
+	background-image: url(../images/csv-icon-24x24.png); }
+.mtli_doc {
+	background-image: url(../images/doc-icon-24x24.png); }
+.mtli_docx {
+	background-image: url(../images/docx-icon-24x24.png); }
+.mtli_pdf {
+	background-image: url(../images/pdf-icon-24x24.png); }
+.mtli_pps {
+	background-image: url(../images/pps-icon-24x24.png); }
+.mtli_ppsx {
+	background-image: url(../images/ppsx-icon-24x24.png); }
+.mtli_ppt {
+	background-image: url(../images/ppt-icon-24x24.png); }
+.mtli_pptx {
+	background-image: url(../images/pptx-icon-24x24.png); }
+.mtli_xls {
+	background-image: url(../images/xls-icon-24x24.png); }
+.mtli_xlsx {
+	background-image: url(../images/xlsx-icon-24x24.png); }
