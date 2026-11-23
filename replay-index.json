@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T22:21:07+00:00",
+ "generated": "2026-11-23T04:37:44+00:00",
  "shard": 2,
  "shards": {
   "1": "replay",
@@ -36,6 +36,16 @@
    "url": "https://icpc.global/regionals/finder/ACPC-2022/standings",
    "fetched": "2026-04-26",
    "sha256_source": "612dbae3793fb438319a5b60b8db6f6e8e88dfc05fcc76e956c484fef19bd452"
+  },
+  {
+   "contest": "acpc-2022",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/acpc/acpc-2022/scoreboard/20260810-wayback-b23a4f16/page.html",
+   "url": "https://scoreboard.acpc.global/acpc2022/",
+   "fetched": "2026-11-22T12:19:35+00:00",
+   "sha256_source": "876f7e6c2ab17d073d25cae0044fd70c9954b846cb7a83eb244f6a3bdee638fb"
   },
   {
    "contest": "acpc-2022",
@@ -126,6 +136,16 @@
    "url": "https://icpc.global/regionals/finder/Asia-EC-League-Final-2022/standings",
    "fetched": "2026-04-26",
    "sha256_source": "2773590b7d0e053df8fbeefb14739cfe86975112ce2dd5d8ffe4aac969fd3b13"
+  },
+  {
+   "contest": "aec-2022",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/aec/aec-2022/scoreboard/20261122-live-50c0858c/page.html",
+   "url": "https://board.xcpcio.com/icpc/47th/ec-final",
+   "fetched": "2026-11-23T04:04:45+00:00",
+   "sha256_source": "16f68f8de452b9c503a3b5c2c0feb6d556f6ce5ce6f726d7efc682273146b830"
   },
   {
    "contest": "alberta-2019",
@@ -3322,6 +3342,16 @@
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
+   "path": "a/ecna/ecna-2020/scoreboard/20210621-wayback-a31220ed/page.html",
+   "url": "https://ecna20.kattis.com/standings/standalone",
+   "fetched": "2026-11-22T12:20:14+00:00",
+   "sha256_source": "d71ad6330e4803a16ecca8d9c86fdbcef7455ba59f36365b4dcb2d63779b1d7d"
+  },
+  {
+   "contest": "ecna-2020",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
    "path": "a/ecna/ecna-2020/scoreboard/20220707-wayback-b07a95bd/page.html",
    "url": "https://ecna20.kattis.com/contests/ecna20/standings",
    "fetched": "2026-09-01T14:22:25+00:00",
@@ -4429,6 +4459,16 @@
   },
   {
    "contest": "hangzhou-2022",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/hangzhou/hangzhou-2022/scoreboard/20261122-live-7f8439fd/page.html",
+   "url": "https://board.xcpcio.com/icpc/47th/hangzhou",
+   "fetched": "2026-11-23T04:04:48+00:00",
+   "sha256_source": "759285387af0824f1b1fe8a3ad27c9056053ea0257fb5615d6a7b342c9db30a6"
+  },
+  {
+   "contest": "hangzhou-2022",
    "artifact": "standings",
    "shard": 2,
    "repo": "replay-2",
@@ -4799,6 +4839,16 @@
   },
   {
    "contest": "jinan-2020",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/jinan/jinan-2020/scoreboard/20261122-live-8d8ee314/page.html",
+   "url": "https://board.xcpcio.com/icpc/2020/jinan",
+   "fetched": "2026-11-23T04:04:48+00:00",
+   "sha256_source": "65a0874f97e7e30dbad253f748c674f6ef4fe38c559fe841c66a0ded8f1ed423"
+  },
+  {
+   "contest": "jinan-2020",
    "artifact": "standings",
    "shard": 2,
    "repo": "replay-2",
@@ -5026,6 +5076,16 @@
    "url": "https://web.archive.org/web/20210919073342/https://algo.codemarshal.org/contests/kanpur_2020/standings",
    "fetched": "2026-09-01T08:56:43+00:00",
    "sha256_source": "ea7eb4923c8bed52a3cc1b9cbfa955decdf4eeeba8fbbece29f90c8e3f93ca9d"
+  },
+  {
+   "contest": "kanpur-2020",
+   "artifact": "standings",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/kanpur/kanpur-2020/standings/20261122-live-e6f72844/Result.pdf",
+   "url": "http://kanpur.indiaicpc.in/Result.pdf",
+   "fetched": "2026-11-23T04:04:45+00:00",
+   "sha256_source": "2dc486410cee084720a1445dd12811c2cf22ba6bdfa7a153b0072b13fc1fb71b"
   },
   {
    "contest": "kanpur-2020",
@@ -5569,6 +5629,16 @@
   },
   {
    "contest": "kunming-2020",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/kunming/kunming-2020/scoreboard/20261122-live-06f67ce3/page.html",
+   "url": "https://board.xcpcio.com/icpc/2020/kunming",
+   "fetched": "2026-11-23T04:04:48+00:00",
+   "sha256_source": "bcdddf895751035a766020519298ee362c4e60e3a1a0aab505d4d199ab4e7818"
+  },
+  {
+   "contest": "kunming-2020",
    "artifact": "standings",
    "shard": 2,
    "repo": "replay-2",
@@ -5699,6 +5769,16 @@
   },
   {
    "contest": "kyrgyzstan-2019",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/kyrgyzstan/kyrgyzstan-2019/scoreboard/20261122-live-1d98aea3/page.html",
+   "url": "https://olymp.krsu.kg/conteststandings/245",
+   "fetched": "2026-11-22T12:49:08+00:00",
+   "sha256_source": "9e39a2637a1b08e8b344c5ffeea55cb8c0fa8501709d6a0a93c9ca04ed3db8be"
+  },
+  {
+   "contest": "kyrgyzstan-2019",
    "artifact": "standings",
    "shard": 2,
    "repo": "replay-2",
@@ -5789,6 +5869,16 @@
   },
   {
    "contest": "kyrgyzstan-2021",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/kyrgyzstan/kyrgyzstan-2021/scoreboard/20261122-live-160af0dd/page.html",
+   "url": "https://olymp.krsu.kg/conteststandings/522",
+   "fetched": "2026-11-22T12:49:09+00:00",
+   "sha256_source": "9e39a2637a1b08e8b344c5ffeea55cb8c0fa8501709d6a0a93c9ca04ed3db8be"
+  },
+  {
+   "contest": "kyrgyzstan-2021",
    "artifact": "standings",
    "shard": 2,
    "repo": "replay-2",
@@ -5806,6 +5896,16 @@
    "url": "https://olymp.krsu.edu.kg/ContestRanklist.aspx?contest=788",
    "fetched": "2026-11-16T05:46:46+00:00",
    "sha256_source": "252c4d2ed5b16b0015425e852ea75e5470eb37957c9db233f1438da28a6c5950"
+  },
+  {
+   "contest": "kyrgyzstan-2022",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/kyrgyzstan/kyrgyzstan-2022/scoreboard/20261122-live-5df0c6cd/page.html",
+   "url": "https://olymp.krsu.kg/conteststandings/788",
+   "fetched": "2026-11-22T12:49:09+00:00",
+   "sha256_source": "9e39a2637a1b08e8b344c5ffeea55cb8c0fa8501709d6a0a93c9ca04ed3db8be"
   },
   {
    "contest": "kyrgyzstan-2022",
@@ -6006,6 +6106,16 @@
    "url": "https://codeforces.com/gym/104373/standings",
    "fetched": "2026-09-01T08:07:00+00:00",
    "sha256_source": "ece6e06ca1c72c037424c35a6188a7c4ff1359f37539ccb386df6884c29165ca"
+  },
+  {
+   "contest": "macau-2021",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/macau/macau-2021/scoreboard/20261122-live-420e1cc8/page.html",
+   "url": "https://board.xcpcio.com/icpc/46th/macau",
+   "fetched": "2026-11-23T04:04:48+00:00",
+   "sha256_source": "31aeaaa6b5fdedd411d55513e3ad0b01058776eb8bc215e56a3c1b147692b728"
   },
   {
    "contest": "macau-2021",
@@ -6889,6 +6999,16 @@
   },
   {
    "contest": "nanchang-2019",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/nanchang/nanchang-2019/scoreboard/20261122-live-be66a4eb/page.html",
+   "url": "https://board.xcpcio.com/icpc/2019/nanchang",
+   "fetched": "2026-11-23T04:04:48+00:00",
+   "sha256_source": "d318aafa230f24b41061f1128905410ef814bcd470faf0f44e3c14f447a6ce60"
+  },
+  {
+   "contest": "nanchang-2019",
    "artifact": "standings",
    "shard": 2,
    "repo": "replay-2",
@@ -6959,6 +7079,16 @@
   },
   {
    "contest": "nanjing-2021",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/nanjing/nanjing-2021/scoreboard/20261122-live-fbd88da7/page.html",
+   "url": "https://board.xcpcio.com/icpc/46th/nanjing",
+   "fetched": "2026-11-23T04:04:48+00:00",
+   "sha256_source": "53ea9fea1ca10ca4e9410147c6de1f10a51281fcb9a98260085dd9d84caeba30"
+  },
+  {
+   "contest": "nanjing-2021",
    "artifact": "standings",
    "shard": 2,
    "repo": "replay-2",
@@ -6986,6 +7116,16 @@
    "url": "https://codeforces.com/gym/104128/standings",
    "fetched": "2026-09-01T08:10:56+00:00",
    "sha256_source": "d5e4bcd10d077eb9ea80de87bf3eb87a0141b781e7e7a90604bbcd2ff5410439"
+  },
+  {
+   "contest": "nanjing-2022",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/nanjing/nanjing-2022/scoreboard/20261122-live-b9468817/page.html",
+   "url": "https://board.xcpcio.com/icpc/47th/nanjing",
+   "fetched": "2026-11-23T04:04:48+00:00",
+   "sha256_source": "7a74ed8618c67f293f3fdf29214ad97ebb64fb5162b19e58d0a240e9232d9f19"
   },
   {
    "contest": "nanjing-2022",
@@ -10249,6 +10389,16 @@
   },
   {
    "contest": "shanghai-2021",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/shanghai/shanghai-2021/scoreboard/20261122-live-d7ccadd4/page.html",
+   "url": "https://board.xcpcio.com/icpc/46th/shanghai",
+   "fetched": "2026-11-23T04:04:50+00:00",
+   "sha256_source": "73c2d96f24e08b1cf921afde24d5d3a040f631eca48ae111b225136d8938ad8e"
+  },
+  {
+   "contest": "shanghai-2021",
    "artifact": "standings",
    "shard": 2,
    "repo": "replay-2",
@@ -10319,6 +10469,16 @@
   },
   {
    "contest": "shenyang-2021",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/shenyang/shenyang-2021/scoreboard/20261122-live-cd3d8072/page.html",
+   "url": "https://board.xcpcio.com/icpc/46th/shenyang",
+   "fetched": "2026-11-23T04:04:50+00:00",
+   "sha256_source": "b70ab4116ccd3fef18fbdadf1a41da514007e3ae44e8ed56c80982850241c238"
+  },
+  {
+   "contest": "shenyang-2021",
    "artifact": "standings",
    "shard": 2,
    "repo": "replay-2",
@@ -10346,6 +10506,16 @@
    "url": "https://codeforces.com/gym/104160/standings",
    "fetched": "2026-09-01T08:23:53+00:00",
    "sha256_source": "b4087f27f3b037ea226f5ffb9ad14d56b111da82cc2d73442cafe8b78c98e655"
+  },
+  {
+   "contest": "shenyang-2022",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/shenyang/shenyang-2022/scoreboard/20261122-live-8c363991/page.html",
+   "url": "https://board.xcpcio.com/icpc/47th/shenyang",
+   "fetched": "2026-11-23T04:04:50+00:00",
+   "sha256_source": "f2b4ad6f4bdeb0bc5f69d1bfb639c0834c97c9bd44ee2d0f6f06534107f596d8"
   },
   {
    "contest": "shenyang-2022",
@@ -14696,6 +14866,16 @@
    "url": "https://codeforces.com/gym/104077/standings",
    "fetched": "2026-09-01T08:39:38+00:00",
    "sha256_source": "6ee202cad4a5401890a3d84c3df03889b2c77b8debbf42a07fc031ff55612f57"
+  },
+  {
+   "contest": "xian-2022",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/xian/xian-2022/scoreboard/20261122-live-73849cae/page.html",
+   "url": "https://board.xcpcio.com/icpc/47th/xian",
+   "fetched": "2026-11-23T04:04:50+00:00",
+   "sha256_source": "558443ac69a53881e7c302cf072c6ba68843c3b492dd3901bea74e86d172d1fb"
   },
   {
    "contest": "xian-2022",
