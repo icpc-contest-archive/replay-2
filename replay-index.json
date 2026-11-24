@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T04:34:18+00:00",
+ "generated": "2026-11-24T22:17:13+00:00",
  "shard": 2,
  "shards": {
   "1": "replay",
@@ -8133,6 +8133,16 @@
    "sha256_source": "8d973389e53aa0f91f3dad722415e1ca4f3626cb6534b0e75dae1c4274995101"
   },
   {
+   "contest": "nerc-2020",
+   "artifact": "standings",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/nerc/nerc-2020/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Northern-Eurasia-Contests-2021/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "724c0fd548d6eabc12abbf7954c8576408ce50cdda5b104cb9d48d520ae75ba6"
+  },
+  {
    "contest": "nerc-2021",
    "artifact": "external-standings",
    "shard": 2,
@@ -11502,6 +11512,26 @@
    "url": "https://icpc.global/regionals/finder/SouthAmerica-South-2023/standings",
    "fetched": "2026-04-26",
    "sha256_source": "97e5b652e8262d64066f69faf9f7404f3afc9735547130fb7e0759372920d037"
+  },
+  {
+   "contest": "south-caucasus-2021",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/south-caucasus/south-caucasus-2021/scoreboard/20220819-wayback-1ec19e5a/page.html",
+   "url": "https://ejudge.opencup.org/~ejudge/sc2022resICPC",
+   "fetched": "2026-11-24T21:29:01+00:00",
+   "sha256_source": "c5bcb564d7270098375d455f5753ad31baa5e3829b2c34a1e1e5a72b339a7ce2"
+  },
+  {
+   "contest": "south-caucasus-2021",
+   "artifact": "standings",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/south-caucasus/south-caucasus-2021/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/NERC-SC-2022/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "c806a919e5dd7be5ef6729bbe3ca8d8c84cff87f66a60a5c6776fb77ec8de96e"
   },
   {
    "contest": "south-na-2022",
