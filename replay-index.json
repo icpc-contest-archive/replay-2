@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T03:40:03+00:00",
+ "generated": "2026-11-24T04:34:18+00:00",
  "shard": 2,
  "shards": {
   "1": "replay",
@@ -755,7 +755,8 @@
    "path": "a/awc/awc-2022/standings/20261115-live-c69f7591/result.pdf",
    "url": "http://wc.indiaicpc.in/result.pdf",
    "fetched": "2026-11-16T05:46:38+00:00",
-   "sha256_source": "abf37b696ee9e3366f4108a283c237e3dbde28bd19ebfb2217f3c89827e47968"
+   "sha256_source": "abf37b696ee9e3366f4108a283c237e3dbde28bd19ebfb2217f3c89827e47968",
+   "at": "a/awc/awc-2022/standings/20230324-wayback-d74c0f3f/result.pdf"
   },
   {
    "contest": "awc-2022",
@@ -4755,7 +4756,8 @@
    "path": "a/hong-kong/hong-kong-2022/standings/2026-09-01-live-3cfd2dcb/standings.pdf",
    "url": "https://icpc2023.cse.cuhk.edu.hk/standings.pdf",
    "fetched": "2026-09-01T08:01:09+00:00",
-   "sha256_source": "fc95cd5282f70aae6e4bceb495d99d52ffee95e9db7b2fc913683fcde8d59b7e"
+   "sha256_source": "fc95cd5282f70aae6e4bceb495d99d52ffee95e9db7b2fc913683fcde8d59b7e",
+   "at": "a/hong-kong/hong-kong-2022/standings/20240313-wayback-8157f2e4/standings.pdf"
   },
   {
    "contest": "hong-kong-2022",
@@ -5305,7 +5307,8 @@
    "path": "a/kanpur/kanpur-2019/standings/2026-09-01-wayback-9eca7480/Kanpur_Ranklist.pdf",
    "url": "https://web.archive.org/web/20240705145626/https://kanpur.indiaicpc.in/Kanpur_Ranklist.pdf",
    "fetched": "2026-09-01T08:56:39+00:00",
-   "sha256_source": "f80f912d6b121ba2ab79fe2e9201de7862fb91363930e4407c75758c08cab100"
+   "sha256_source": "f80f912d6b121ba2ab79fe2e9201de7862fb91363930e4407c75758c08cab100",
+   "at": "a/kanpur/kanpur-2019/standings/20240705-wayback-07d97e18/Kanpur_Ranklist.pdf"
   },
   {
    "contest": "kanpur-2019",
@@ -7715,7 +7718,8 @@
    "path": "a/nena-east/nena-east-2019/scoreboard/2026-09-01-wayback-c74c3b4b/scoreboard.web.pdf",
    "url": "https://web.archive.org/web/20250330120804/https://hc3.seas.harvard.edu/hc3/bospre/2019/scoreboard.web.pdf",
    "fetched": "2026-09-01T08:13:30+00:00",
-   "sha256_source": "584cd1fad22f79b1b6aebb3e8de9846e96d635ec290f036a4a27d9ee4f723e82"
+   "sha256_source": "584cd1fad22f79b1b6aebb3e8de9846e96d635ec290f036a4a27d9ee4f723e82",
+   "at": "a/nena-east/nena-east-2019/external-standings/2026-04-15-external/content.pdf"
   },
   {
    "contest": "nena-east-2019",
@@ -7725,7 +7729,8 @@
    "path": "a/nena-east/nena-east-2019/standings/20250330-wayback-a7d416ee/scoreboard.web.pdf",
    "url": "http://hc3.seas.harvard.edu/hc3/bospre/2019/scoreboard.web.pdf",
    "fetched": "2026-09-01T15:28:07+00:00",
-   "sha256_source": "584cd1fad22f79b1b6aebb3e8de9846e96d635ec290f036a4a27d9ee4f723e82"
+   "sha256_source": "584cd1fad22f79b1b6aebb3e8de9846e96d635ec290f036a4a27d9ee4f723e82",
+   "at": "a/nena-east/nena-east-2019/external-standings/2026-04-15-external/content.pdf"
   },
   {
    "contest": "nena-east-2019",
@@ -11245,7 +11250,8 @@
    "path": "a/south-africa/south-africa-2019/scoreboard/2026-09-01-live-6be58b1e/standings_Final_V3.pdf",
    "url": "https://acm.cs.up.ac.za/Files2019/standings_Final_V3.pdf",
    "fetched": "2026-09-01T08:24:41+00:00",
-   "sha256_source": "0caadda0752d7cfbda6a467c20b500ec5bc0fb9a07811bafbde53be313a6d33c"
+   "sha256_source": "0caadda0752d7cfbda6a467c20b500ec5bc0fb9a07811bafbde53be313a6d33c",
+   "at": "a/south-africa/south-africa-2019/scoreboard/20240616-wayback-84927938/standings_Final_V3.pdf"
   },
   {
    "contest": "south-africa-2019",
@@ -11565,7 +11571,8 @@
    "path": "a/south-pacific-division/south-pacific-division-2021/scoreboard/2026-09-01-live-f3a36ada/2021_Divisionals_Scoreboard.pdf",
    "url": "https://sppcontests.org/wp-content/uploads/2024/07/2021_archive/2021_Divisionals_Scoreboard.pdf",
    "fetched": "2026-09-01T08:25:23+00:00",
-   "sha256_source": "f7bf6637fa2f67fad3efd4cf4fd4a322f74357f85fd4fc8128f7d42128a97906"
+   "sha256_source": "f7bf6637fa2f67fad3efd4cf4fd4a322f74357f85fd4fc8128f7d42128a97906",
+   "at": "a/south-pacific-division/south-pacific-division-2021/scoreboard/20250513-wayback-d4dfb286/2021_Divisionals_Scoreboard.pdf"
   },
   {
    "contest": "south-pacific-division-2021",
@@ -11645,7 +11652,8 @@
    "path": "a/south-pacific/south-pacific-2019/scoreboard/2026-09-01-live-e4870f29/2019R_Scoreboard.pdf",
    "url": "https://sppcontests.org/wp-content/uploads/2024/07/2019_archive/2019R_Scoreboard.pdf",
    "fetched": "2026-09-01T08:26:07+00:00",
-   "sha256_source": "313f04d44024abb21350ced69ad6074db0bcfa8c8818b72a132f0e6363ee6432"
+   "sha256_source": "313f04d44024abb21350ced69ad6074db0bcfa8c8818b72a132f0e6363ee6432",
+   "at": "a/south-pacific/south-pacific-2019/scoreboard/20250213-wayback-0da06649/2019R_Scoreboard.pdf"
   },
   {
    "contest": "south-pacific-2019",
@@ -13395,7 +13403,8 @@
    "path": "a/ukraine/ukraine-2019/rankings/20261116-live-c0e700d2/2019_acm_2nd_stage_northern_-_brief_report.pdf",
    "url": "https://nubip.edu.ua/sites/default/files/u214/2019_acm_2nd_stage_northern_-_brief_report.pdf",
    "fetched": "2026-11-16T16:16:38+00:00",
-   "sha256_source": "f967f469c9d5bd9304645ce10c8099a20eaacb706f8225b3431a82cf173bc414"
+   "sha256_source": "f967f469c9d5bd9304645ce10c8099a20eaacb706f8225b3431a82cf173bc414",
+   "at": "a/ukraine/ukraine-2019/rankings/20220123-wayback-e6551d71/2019_acm_2nd_stage_northern_-_brief_report.pdf"
   },
   {
    "contest": "ukraine-2019",
@@ -13505,7 +13514,8 @@
    "path": "a/ukraine/ukraine-2020/scoreboard/2026-04-16-ukraine/2020-all-ukrainian-collegiate-programming-contest-2021.pdf",
    "url": "https://vntu.edu.ua/uploads/2020/aucpc/problems_2020.pdf",
    "fetched": "2026-04-16T06:46:33Z",
-   "sha256_source": "bdc1860e707759e60c96ec871df9fdf485c7d6cd46268c7e2c2082eb5ea5d8a2"
+   "sha256_source": "bdc1860e707759e60c96ec871df9fdf485c7d6cd46268c7e2c2082eb5ea5d8a2",
+   "at": "a/ukraine/ukraine-2020/scoreboard/20211105-wayback-c2240617/problems_2020.pdf"
   },
   {
    "contest": "ukraine-2020",
@@ -13565,7 +13575,8 @@
    "path": "a/ukraine/ukraine-2021/rankings/20261116-live-3ba06f9a/ReportAll2021-2.pdf",
    "url": "https://vntu.edu.ua/docs/icpc2021/ReportAll2021-2.pdf",
    "fetched": "2026-11-16T16:13:39+00:00",
-   "sha256_source": "f48bf658e98d5a2fb28d6d2d74a94dfabc7c6679dce03b199bb93844eb2d87c0"
+   "sha256_source": "f48bf658e98d5a2fb28d6d2d74a94dfabc7c6679dce03b199bb93844eb2d87c0",
+   "at": "a/ukraine/ukraine-2021/rankings/20220107-wayback-769e0f56/ReportAll2021-2.pdf"
   },
   {
    "contest": "ukraine-2021",
@@ -13575,7 +13586,8 @@
    "path": "a/ukraine/ukraine-2021/scoreboard/20220107-wayback-41022082/Rank_St2-0.pdf",
    "url": "https://vntu.edu.ua/docs/icpc2021/Rank_St2-0.pdf",
    "fetched": "2026-09-01T17:05:05+00:00",
-   "sha256_source": "32976070b7c841e28d5ba1cb7cedc066641e5eb0e98b4df8f2a0714c6de7151a"
+   "sha256_source": "32976070b7c841e28d5ba1cb7cedc066641e5eb0e98b4df8f2a0714c6de7151a",
+   "at": "a/ukraine/ukraine-2021/external-standings/2026-04-15-external/content.pdf"
   },
   {
    "contest": "ukraine-2021",
@@ -13585,7 +13597,8 @@
    "path": "a/ukraine/ukraine-2021/scoreboard/20260901-live-bbafd669/Rank_St2-0.pdf",
    "url": "https://vntu.edu.ua/docs/icpc2021/Rank_St2-0.pdf",
    "fetched": "2026-09-01T17:04:50+00:00",
-   "sha256_source": "32976070b7c841e28d5ba1cb7cedc066641e5eb0e98b4df8f2a0714c6de7151a"
+   "sha256_source": "32976070b7c841e28d5ba1cb7cedc066641e5eb0e98b4df8f2a0714c6de7151a",
+   "at": "a/ukraine/ukraine-2021/external-standings/2026-04-15-external/content.pdf"
   },
   {
    "contest": "ukraine-2021",
@@ -13625,7 +13638,8 @@
    "path": "a/ukraine/ukraine-2021/web-mirror/20220107-wayback-769e0f56/ReportAll2021-2.pdf",
    "url": "https://vntu.edu.ua/docs/icpc2021/ReportAll2021-2.pdf",
    "fetched": "2026-10-23T20:18:25+00:00",
-   "sha256_source": "f48bf658e98d5a2fb28d6d2d74a94dfabc7c6679dce03b199bb93844eb2d87c0"
+   "sha256_source": "f48bf658e98d5a2fb28d6d2d74a94dfabc7c6679dce03b199bb93844eb2d87c0",
+   "at": "a/ukraine/ukraine-2021/rankings/20220107-wayback-769e0f56/ReportAll2021-2.pdf"
   },
   {
    "contest": "ukraine-2021",
@@ -13635,7 +13649,8 @@
    "path": "a/ukraine/ukraine-2021/web-mirror/20261023-live-3ba06f9a/ReportAll2021-2.pdf",
    "url": "https://vntu.edu.ua/docs/icpc2021/ReportAll2021-2.pdf",
    "fetched": "2026-10-23T20:18:22+00:00",
-   "sha256_source": "f48bf658e98d5a2fb28d6d2d74a94dfabc7c6679dce03b199bb93844eb2d87c0"
+   "sha256_source": "f48bf658e98d5a2fb28d6d2d74a94dfabc7c6679dce03b199bb93844eb2d87c0",
+   "at": "a/ukraine/ukraine-2021/rankings/20220107-wayback-769e0f56/ReportAll2021-2.pdf"
   },
   {
    "contest": "ukraine-2022",
