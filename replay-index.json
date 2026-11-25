@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T18:52:00+00:00",
+ "generated": "2026-11-25T19:27:14+00:00",
  "shard": 2,
  "shards": {
   "1": "replay",
@@ -1263,26 +1263,6 @@
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
-   "path": "a/bapc-prelims/bapc-prelims-2019/scoreboard/20191113-wayback-52fdf5cf/results.html",
-   "url": "https://2019.bapc.eu/results.html#preliminaries-merged",
-   "fetched": "2026-09-01T12:00:03+00:00",
-   "sha256_source": "d241993bdbdff6bc5085a267466560095a720a3bd639a095273cc980439bc8b2"
-  },
-  {
-   "contest": "bapc-prelims-2019",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
-   "path": "a/bapc-prelims/bapc-prelims-2019/scoreboard/20191113-wayback-c20add44/results.html",
-   "url": "https://2019.bapc.eu/results.html",
-   "fetched": "2026-10-23T15:53:00+00:00",
-   "sha256_source": "d241993bdbdff6bc5085a267466560095a720a3bd639a095273cc980439bc8b2"
-  },
-  {
-   "contest": "bapc-prelims-2019",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
    "path": "a/bapc-prelims/bapc-prelims-2019/scoreboard/2026-09-01-live-4a416f45/results.html",
    "url": "https://2019.bapc.eu/results.html#preliminaries-merged",
    "fetched": "2026-09-01T07:53:08+00:00",
@@ -1380,16 +1360,6 @@
   },
   {
    "contest": "bapc-prelims-2022",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
-   "path": "a/bapc-prelims/bapc-prelims-2022/scoreboard/2026-09-01-wayback-2303a32d/page.html",
-   "url": "https://web.archive.org/web/20241212075750/https://2022.bapc.eu/preliminaries/scoreboard/",
-   "fetched": "2026-09-01T07:53:09+00:00",
-   "sha256_source": "917e8403b83e78317924f8559a5e07e108436e4665d0517540a246b80412c7a0"
-  },
-  {
-   "contest": "bapc-prelims-2022",
    "artifact": "standings",
    "shard": 2,
    "repo": "replay-2",
@@ -1407,16 +1377,6 @@
    "url": "https://2019.bapc.eu/results.html",
    "fetched": "2026-04-15T07:38:11Z",
    "sha256_source": "88d9f2588a5d933c3a1df9e1da2cef78f5b640ab53a4ddaecc49937c4ae2f79c"
-  },
-  {
-   "contest": "bapc-2019",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
-   "path": "a/bapc/bapc-2019/scoreboard/20191113-wayback-c20add44/results.html",
-   "url": "https://2019.bapc.eu/results.html",
-   "fetched": "2026-09-01T12:02:04+00:00",
-   "sha256_source": "d241993bdbdff6bc5085a267466560095a720a3bd639a095273cc980439bc8b2"
   },
   {
    "contest": "bapc-2019",
@@ -1693,16 +1653,6 @@
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
-   "path": "a/bolivia-national/bolivia-national-2022/scoreboard/20231208-wayback-c13416da/page.html",
-   "url": "https://scorelatam.naquadah.com.br/subbr-2022/",
-   "fetched": "2026-11-23T13:22:03+00:00",
-   "sha256_source": "f451ed3ffaf80b1f82f1ec3802290d18db2265d892d73bd430485699e3c2990c"
-  },
-  {
-   "contest": "bolivia-national-2022",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
    "path": "a/bolivia-national/bolivia-national-2022/scoreboard/20261123-live-b83894e0/page.html",
    "url": "https://scorelatam.naquadah.com.br/subbr-2022/",
    "fetched": "2026-11-23T13:21:28+00:00",
@@ -1953,16 +1903,6 @@
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
-   "path": "a/brazil/brazil-2019/scoreboard/20210411-wayback-2f0d6964/page.html",
-   "url": "https://scorelatam.naquadah.com.br/latam-2019/",
-   "fetched": "2026-09-01T12:06:35+00:00",
-   "sha256_source": "2827af07c95c1ec1857d90cef10437914110ea72c9a7d50211a7ffbb95cea4de"
-  },
-  {
-   "contest": "brazil-2019",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
    "path": "a/brazil/brazil-2019/scoreboard/2026-09-01-live-e9f99892/page.html",
    "url": "https://scorelatam.naquadah.com.br/latam-2019/",
    "fetched": "2026-09-01T07:54:18+00:00",
@@ -2013,16 +1953,6 @@
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
-   "path": "a/brazil/brazil-2020/scoreboard/20231208-wayback-a26f8358/page.html",
-   "url": "https://scorelatam.naquadah.com.br/subbr-2020/",
-   "fetched": "2026-09-04T14:05:55+00:00",
-   "sha256_source": "6ae82f2e721179634435ef949a30fee06ecd6ae3bfd05b795f1574a2d3b4d2fe"
-  },
-  {
-   "contest": "brazil-2020",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
    "path": "a/brazil/brazil-2020/scoreboard/2026-09-01-live-208f16a8/page.html",
    "url": "https://scorelatam.naquadah.com.br/latam-2020/",
    "fetched": "2026-09-01T07:54:19+00:00",
@@ -2067,16 +1997,6 @@
    "url": "https://scorelatam.naquadah.com.br/latam-2021/",
    "fetched": "2026-09-01T12:07:03+00:00",
    "sha256_source": "11f384f6542ef15704f512700f92e2212105a9a654ca2ce4e51d5e58727b53b5"
-  },
-  {
-   "contest": "brazil-2021",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
-   "path": "a/brazil/brazil-2021/scoreboard/20220520-wayback-3e5e9953/page.html",
-   "url": "https://scorelatam.naquadah.com.br/subbr-2021/",
-   "fetched": "2026-09-04T14:05:46+00:00",
-   "sha256_source": "c3b05019f77bbdbf177e8ae374ef8ebbe54c66bfe5ed8c1357ce203880e92660"
   },
   {
    "contest": "brazil-2021",
@@ -2157,16 +2077,6 @@
    "url": "https://scorelatam.naquadah.com.br/latam-2022/",
    "fetched": "2026-09-01T12:07:36+00:00",
    "sha256_source": "7817bb25846970f9b074fa71e65609a4c3a1ff8f44be76fd8d39358a734226b4"
-  },
-  {
-   "contest": "brazil-2022",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
-   "path": "a/brazil/brazil-2022/scoreboard/20231208-wayback-c13416da/page.html",
-   "url": "https://scorelatam.naquadah.com.br/subbr-2022/",
-   "fetched": "2026-09-04T14:05:43+00:00",
-   "sha256_source": "f451ed3ffaf80b1f82f1ec3802290d18db2265d892d73bd430485699e3c2990c"
   },
   {
    "contest": "brazil-2022",
@@ -2383,16 +2293,6 @@
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
-   "path": "a/caribbean/caribbean-2019/scoreboard/20210411-wayback-2f0d6964/page.html",
-   "url": "https://scorelatam.naquadah.com.br/latam-2019/",
-   "fetched": "2026-09-01T12:11:36+00:00",
-   "sha256_source": "2827af07c95c1ec1857d90cef10437914110ea72c9a7d50211a7ffbb95cea4de"
-  },
-  {
-   "contest": "caribbean-2019",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
    "path": "a/caribbean/caribbean-2019/scoreboard/2026-09-01-live-e9f99892/page.html",
    "url": "https://scorelatam.naquadah.com.br/latam-2019/",
    "fetched": "2026-09-01T07:54:36+00:00",
@@ -2527,16 +2427,6 @@
    "url": "https://icpc.global/regionals/finder/CaribFinals-2023/standings",
    "fetched": "2026-04-26",
    "sha256_source": "f9403847e3c1ee7bc50e147a35f775f8b12fe79b29563d79ca09806344138ea0"
-  },
-  {
-   "contest": "central-america-2019",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
-   "path": "a/central-america/central-america-2019/scoreboard/20210411-wayback-2f0d6964/page.html",
-   "url": "https://scorelatam.naquadah.com.br/latam-2019/",
-   "fetched": "2026-09-01T12:14:45+00:00",
-   "sha256_source": "2827af07c95c1ec1857d90cef10437914110ea72c9a7d50211a7ffbb95cea4de"
   },
   {
    "contest": "central-america-2019",
@@ -7305,16 +7195,6 @@
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
-   "path": "a/mexico/mexico-2019/scoreboard/20210411-wayback-2f0d6964/page.html",
-   "url": "https://scorelatam.naquadah.com.br/latam-2019/",
-   "fetched": "2026-09-01T15:10:10+00:00",
-   "sha256_source": "2827af07c95c1ec1857d90cef10437914110ea72c9a7d50211a7ffbb95cea4de"
-  },
-  {
-   "contest": "mexico-2019",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
    "path": "a/mexico/mexico-2019/scoreboard/2026-09-01-live-e9f99892/page.html",
    "url": "https://scorelatam.naquadah.com.br/latam-2019/",
    "fetched": "2026-09-01T08:08:36+00:00",
@@ -8747,16 +8627,6 @@
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
-   "path": "a/nordic/nordic-2019/scoreboard/20220812-wayback-b8b781b4/page.html",
-   "url": "https://ncpc19.kattis.com/contests/ncpc19/standings",
-   "fetched": "2026-09-01T15:33:33+00:00",
-   "sha256_source": "791034e30a4704efc9a8deabbc1177571cf41a6b55552ad871300149f8e44cab"
-  },
-  {
-   "contest": "nordic-2019",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
    "path": "a/nordic/nordic-2019/scoreboard/2026-09-01-live-1d0ef942/page.html",
    "url": "https://ncpc19.kattis.com/contests/ncpc19/standings",
    "fetched": "2026-09-01T08:14:48+00:00",
@@ -8777,16 +8647,6 @@
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
-   "path": "a/nordic/nordic-2020/scoreboard/20220630-wayback-8d46bcc6/page.html",
-   "url": "https://ncpc20.kattis.com/contests/ncpc20/standings",
-   "fetched": "2026-09-01T15:33:01+00:00",
-   "sha256_source": "fff5cf622c5ea6ab3c721443fb786b1c6039f2a5e01ae29aef5f8d92e280f5b0"
-  },
-  {
-   "contest": "nordic-2020",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
    "path": "a/nordic/nordic-2020/scoreboard/2026-09-01-live-f063d594/page.html",
    "url": "https://ncpc20.kattis.com/contests/ncpc20/standings",
    "fetched": "2026-09-01T08:14:51+00:00",
@@ -8801,16 +8661,6 @@
    "url": "https://icpc.global/regionals/finder/Nordic-2021/standings",
    "fetched": "2026-04-26",
    "sha256_source": "aa36a24a3d13ba9a9d96b34500d262ac0ffcbe2bc86a5bbed7fc26082eb12c9a"
-  },
-  {
-   "contest": "nordic-2021",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
-   "path": "a/nordic/nordic-2021/scoreboard/20220706-wayback-05ef6c08/page.html",
-   "url": "https://ncpc21.kattis.com/contests/ncpc21/standings",
-   "fetched": "2026-09-01T15:33:24+00:00",
-   "sha256_source": "bb5d118e9f999f5b38d18eb6713dfc1eb1fd920a1de6d4df3e5024a72db8abec"
   },
   {
    "contest": "nordic-2021",
@@ -9274,26 +9124,6 @@
   },
   {
    "contest": "nwerc-2022",
-   "artifact": "external-standings",
-   "shard": 2,
-   "repo": "replay-2",
-   "path": "a/nwerc/nwerc-2022/external-standings/2026-04-15-external/content.html",
-   "url": "https://2022.nwerc.eu/main/scoreboard",
-   "fetched": "2026-04-15T09:51:53Z",
-   "sha256_source": "7cee972b324064e1a59b9f25674416d9fa4a7bb5fed6abcda6e57eab66f4d01a"
-  },
-  {
-   "contest": "nwerc-2022",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
-   "path": "a/nwerc/nwerc-2022/scoreboard/20240413-wayback-30d86f47/page.html",
-   "url": "https://chipcie.wisv.ch/archive/2022/nwerc/scoreboard/",
-   "fetched": "2026-09-01T15:41:02+00:00",
-   "sha256_source": "7cee972b324064e1a59b9f25674416d9fa4a7bb5fed6abcda6e57eab66f4d01a"
-  },
-  {
-   "contest": "nwerc-2022",
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
@@ -9341,16 +9171,6 @@
    "url": "https://2022.nwerc.eu/main/scoreboard.html",
    "fetched": "2026-11-16T05:46:00+00:00",
    "sha256_source": "1cc01a260ab93c56454cae97a845bb251fe1989951e36f447c51878b6e553dc6"
-  },
-  {
-   "contest": "nwerc-2022",
-   "artifact": "standings",
-   "shard": 2,
-   "repo": "replay-2",
-   "path": "a/nwerc/nwerc-2022/standings/20240530-wayback-17737eb2/page.html",
-   "url": "https://2022.nwerc.eu/main/scoreboard",
-   "fetched": "2026-09-01T15:41:11+00:00",
-   "sha256_source": "7cee972b324064e1a59b9f25674416d9fa4a7bb5fed6abcda6e57eab66f4d01a"
   },
   {
    "contest": "nwerc-2022",
@@ -11868,16 +11688,6 @@
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
-   "path": "a/south-america-north/south-america-north-2019/scoreboard/20210411-wayback-2f0d6964/page.html",
-   "url": "https://scorelatam.naquadah.com.br/latam-2019/",
-   "fetched": "2026-09-01T16:34:52+00:00",
-   "sha256_source": "2827af07c95c1ec1857d90cef10437914110ea72c9a7d50211a7ffbb95cea4de"
-  },
-  {
-   "contest": "south-america-north-2019",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
    "path": "a/south-america-north/south-america-north-2019/scoreboard/2026-09-01-live-e9f99892/page.html",
    "url": "https://scorelatam.naquadah.com.br/latam-2019/",
    "fetched": "2026-09-01T08:24:43+00:00",
@@ -11982,16 +11792,6 @@
    "url": "https://icpc.global/regionals/finder/South-America-North-2023/standings",
    "fetched": "2026-04-26",
    "sha256_source": "e2ab56a04022115cc4a219ad08b6bd1e13229e538eb3283337c6474a70ac20b0"
-  },
-  {
-   "contest": "south-america-south-2019",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
-   "path": "a/south-america-south/south-america-south-2019/scoreboard/20210411-wayback-2f0d6964/page.html",
-   "url": "https://scorelatam.naquadah.com.br/latam-2019/",
-   "fetched": "2026-09-01T16:36:35+00:00",
-   "sha256_source": "2827af07c95c1ec1857d90cef10437914110ea72c9a7d50211a7ffbb95cea4de"
   },
   {
    "contest": "south-america-south-2019",
@@ -13151,16 +12951,6 @@
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
-   "path": "a/tap/tap-2020/scoreboard/20210411-wayback-f0eabaee/page.html",
-   "url": "https://scorelatam.naquadah.com.br/subbr-2020/",
-   "fetched": "2026-11-16T19:09:25+00:00",
-   "sha256_source": "6ae82f2e721179634435ef949a30fee06ecd6ae3bfd05b795f1574a2d3b4d2fe"
-  },
-  {
-   "contest": "tap-2020",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
    "path": "a/tap/tap-2020/scoreboard/20261116-live-c9e00ebb/page.html",
    "url": "https://scorelatam.naquadah.com.br/subbr-2020/",
    "fetched": "2026-11-16T19:08:22+00:00",
@@ -13181,16 +12971,6 @@
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
-   "path": "a/tap/tap-2021/scoreboard/20211205-wayback-284f28c0/page.html",
-   "url": "https://scorelatam.naquadah.com.br/subbr-2021/",
-   "fetched": "2026-11-23T13:22:31+00:00",
-   "sha256_source": "c3b05019f77bbdbf177e8ae374ef8ebbe54c66bfe5ed8c1357ce203880e92660"
-  },
-  {
-   "contest": "tap-2021",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
    "path": "a/tap/tap-2021/scoreboard/20261123-live-147ab1ab/page.html",
    "url": "https://scorelatam.naquadah.com.br/subbr-2021/",
    "fetched": "2026-11-23T13:22:27+00:00",
@@ -13205,16 +12985,6 @@
    "url": "https://icpc.global/regionals/finder/TAP-2022/standings",
    "fetched": "2026-04-26",
    "sha256_source": "625edd5906ded1ad0c7a6177cbed6e0a994bffadfc475e352e0a0bf9175a8038"
-  },
-  {
-   "contest": "tap-2022",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
-   "path": "a/tap/tap-2022/scoreboard/20231208-wayback-c13416da/page.html",
-   "url": "https://scorelatam.naquadah.com.br/subbr-2022/",
-   "fetched": "2026-11-23T13:22:33+00:00",
-   "sha256_source": "f451ed3ffaf80b1f82f1ec3802290d18db2265d892d73bd430485699e3c2990c"
   },
   {
    "contest": "tap-2022",
@@ -15992,16 +15762,6 @@
    "url": "https://icpc.global/regionals/finder/World-Finals-2019/standings",
    "fetched": "2026-04-26",
    "sha256_source": "76eecbcbcdb1b0ce8bd362b3206aac499d4cf8a800449ef008b10efb2ef54274"
-  },
-  {
-   "contest": "wf-2020",
-   "artifact": "scoreboard",
-   "shard": 2,
-   "repo": "replay-2",
-   "path": "a/wf/wf-2020/scoreboard/20211130-wayback-284a1ebd/page.html",
-   "url": "https://www.domjudge.org/scoreboard/wf2020/",
-   "fetched": "2026-09-01T17:30:07+00:00",
-   "sha256_source": "d71fe3b848506d23befe768a442dc3c050b6de5864fa50931444cbe1bcf10106"
   },
   {
    "contest": "wf-2020",
