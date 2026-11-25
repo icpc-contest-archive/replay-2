@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T19:27:14+00:00",
+ "generated": "2026-11-25T20:34:13+00:00",
  "shard": 2,
  "shards": {
   "1": "replay",
@@ -11965,6 +11965,16 @@
   },
   {
    "contest": "south-pacific-central-2019",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/south-pacific-central/south-pacific-central-2019/scoreboard/20261125-live-c2ec5d64/2019D_Scoreboard.pdf",
+   "url": "https://sppcontests.org/wp-content/uploads/2024/07/2019_archive/2019D_Scoreboard.pdf",
+   "fetched": "2026-11-25T19:39:35+00:00",
+   "sha256_source": "d5e4e8ea8e8b53e0c0d4ce5f0c1f0f2ef383634d70e94109eb10a0ed90ec3e75"
+  },
+  {
+   "contest": "south-pacific-central-2019",
    "artifact": "standings",
    "shard": 2,
    "repo": "replay-2",
@@ -15845,6 +15855,16 @@
   },
   {
    "contest": "wf-2022",
+   "artifact": "rankings",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/wf/wf-2022/rankings/20261125-live-b976bef0/page.html",
+   "url": "https://news.icpc.global/wf2022/",
+   "fetched": "2026-11-25T20:00:38+00:00",
+   "sha256_source": "1342f0c154c9f05815a76bde7536744adf017c4b59002a839d2b9f2d0c5143ad"
+  },
+  {
+   "contest": "wf-2022",
    "artifact": "scoreboard",
    "shard": 2,
    "repo": "replay-2",
@@ -15862,6 +15882,16 @@
    "url": "https://zibada.guru/finals/2022/",
    "fetched": "2026-11-16T16:14:03+00:00",
    "sha256_source": "c3629ef8a2c2c96dd356cffc972570ff84a817b81797f825795f996e07972f7c"
+  },
+  {
+   "contest": "wf-2022",
+   "artifact": "scoreboard",
+   "shard": 2,
+   "repo": "replay-2",
+   "path": "a/wf/wf-2022/scoreboard/20261125-live-2778b4c8/index.html",
+   "url": "https://icpc.global/worldfinals/scoreboard/2023/scoreboards/46/index.html",
+   "fetched": "2026-11-25T19:41:20+00:00",
+   "sha256_source": "f2861b3741edfdfa5d60682b6553a908528c7aa2c6909eda5c54b6ae748300e9"
   },
   {
    "contest": "wf-2022",
